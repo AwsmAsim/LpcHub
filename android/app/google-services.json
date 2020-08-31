@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195831092753",
+    "firebase_url": "https://lpchub-897c4.firebaseio.com",
+    "project_id": "lpchub-897c4",
+    "storage_bucket": "lpchub-897c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195831092753:android:099f8a091d391714d883b0",
+        "android_client_info": {
+          "package_name": "com.schaffen.lpchub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195831092753-dsbk9qe7c6bokbjgrcgsvm0jucufc29t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtrquZF5Ajtfk83e-EP6ZLogAUvqa_OaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195831092753-dsbk9qe7c6bokbjgrcgsvm0jucufc29t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
