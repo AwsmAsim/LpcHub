@@ -65,6 +65,24 @@ flutter:
     - assets/todo.png
     - assets/set.jpg
     - assets/setting.png
+    - assets/illustration1.jpg
+    - assets/illustration2.jpg
+    - assets/illustrations3.jpg
+    - assets/man1.jpg
+    - assets/man2.jpg
+    - assets/man3.jpg
+    - assets/man4.jpg
+    - assets/man5.jpg
+    - assets/woman1.jpg
+    - assets/woman2.jpg
+    - assets/woman3.jpg
+    - assets/woman4.jpg
+    - assets/woman5.jpg
+    - assets/post_banner.jpg
+    - assets/empty.jpeg
+    - assets/home_page.jpg
+    - assets/logo_wot.jpg
+    - assets/login.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
